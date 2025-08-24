@@ -1,1 +1,1 @@
-bhhbhnj# Laboratorio-numero-1-Procesamiento-de-se-ales
+# Laboratorio-numero-1-Procesamiento-de-se-ales
