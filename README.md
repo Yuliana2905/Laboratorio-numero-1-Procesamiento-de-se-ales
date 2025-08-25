@@ -77,6 +77,11 @@ Creacion de la señal
 
 ## Histograma y funcion de probabilidad 
 
+<img width="1052" height="565" alt="Captura de pantalla 2025-08-24 234515" src="https://github.com/user-attachments/assets/1ce45b45-aac2-4772-aa82-0f52910d1dd3" />
+
+<img width="1089" height="564" alt="image" src="https://github.com/user-attachments/assets/07da9e96-8a5e-43ba-bf96-6246021ca8c9" />
+
+
 
 
 
