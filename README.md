@@ -109,6 +109,13 @@ Los artefactos afectan la estabilidad de la línea base y complican el análisis
 Este ejercicio permitió comprender la importancia de filtrado y preprocesamiento en señales biomédicas antes de su análisis clínico o estadístico.
 
 
+# Diagramas de flujo
+## Parte A
+![Imagen de WhatsApp 2025-08-24 a las 23 25 39_2998a633](https://github.com/user-attachments/assets/3d85a266-f8e9-4b3b-bc94-fdec726d1f2a)
+## Parte B
+![Imagen de WhatsApp 2025-08-24 a las 23 25 39_b47ca1b3](https://github.com/user-attachments/assets/6ffda53e-68d6-4b77-a224-77b3c4a325a6)
+## Parte C
+![Imagen de WhatsApp 2025-08-24 a las 23 25 39_efe2239c](https://github.com/user-attachments/assets/f0f3b550-e8f0-41a1-90bf-c5ea6372aad2)
 
 
 # Conclusiones: 
