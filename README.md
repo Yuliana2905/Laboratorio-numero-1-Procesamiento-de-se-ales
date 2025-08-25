@@ -27,6 +27,9 @@ Además, la relación señal-ruido (SNR) es un parámetro fundamental que compar
 El uso de herramientas computacionales como Python, con librerías como NumPy, SciPy y Matplotlib, permite importar, procesar y analizar señales fisiológicas de manera eficiente. Asimismo, plataformas como PhysioNet ofrecen bases de datos abiertas que facilitan el acceso a señales reales para fines académicos e investigativos.
 # Objetivo:
 -Identificar los estadísticos que describen una señal biomédica, obtenerlos a partir de algoritmos de programación y mostrarlos. 
+- Implementar algoritmos de Python.
+- comparara señales fisiologicas de bases de datos con señales que fueron generadas en un laboratorio
+- analizar el efecto del ruido sobre las señales capturadas 
 # Procedimiento:
 
 ## Parte A
