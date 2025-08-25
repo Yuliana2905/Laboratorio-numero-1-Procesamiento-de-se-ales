@@ -92,8 +92,21 @@ Creacion de la señal
 
 ## Parte C
 La señal de la Parte B fue contaminada con ruido gaussiano, impulsivo y de tipo artefacto. En cada caso se midió la relación señal-ruido (SNR) y se analizaron los efectos sobre la calidad de la señal. Finalmente, todos los resultados y códigos fueron documentados en un repositorio de GitHub.
+¿Que es es la relación señal ruido (SNR)?
+La relación señal-ruido, S/R o del inglés SNR (Signal to Noise Ratio) se define como la proporción existente entre la potencia de salida de la señal que se transmite y la potencia del ruido que la corrompe (por lo tanto hablamos únicamente de dispositivos que emiten sonido y nunca de dispositivos que lo captan). Este margen se mide, como casi todo lo relacionado con el audio, en decibelios y a continuación os vamos a explicar todo lo que debéis saber sobre este tema para ser capaces de comprar vuestros próximos dispositivos conociendo cada pequeño detalle de su rendimiento y si, por desgracia, sus niveles de ruido en la señal son demasiado altos para lo que nuestros oídos están preparados para captar.
+<img width="277" height="51" alt="image" src="https://github.com/user-attachments/assets/dc940f33-0f53-4399-9fdc-8c6ecefd95bc" />
 
 
+Señales con ruidos contaminados
+<img width="876" height="394" alt="image" src="https://github.com/user-attachments/assets/51d622f8-772c-4c5c-88fd-1cb3571f3718" />
+<img width="868" height="393" alt="image" src="https://github.com/user-attachments/assets/e897fda6-dc5c-4b6d-8d97-00d28fe62fec" />
+<img width="851" height="398" alt="image" src="https://github.com/user-attachments/assets/061fa7e7-3f4a-44b4-9f01-f829362da1df" />
+Se analizo de las señales
+Se demostró que la SNR disminuye a medida que la señal es contaminada con ruidos más agresivos.
+El ruido gaussiano tiene menor impacto sobre la morfología de la señal.
+El ruido de impulso es altamente perjudicial, ya que introduce picos falsos.
+Los artefactos afectan la estabilidad de la línea base y complican el análisis de tendencias.
+Este ejercicio permitió comprender la importancia de filtrado y preprocesamiento en señales biomédicas antes de su análisis clínico o estadístico.
 
 
 
