@@ -55,6 +55,8 @@ Esta corresponde a una señal electrocardiografica en el eje X se representa el 
 a su vez se puede evidenciar presencia de riodos y variaciones irregurales lo cuak se acerca a una señal biomedica real.
 
 ## Calculos estadisticos descriptivos de la señal.
+<img width="695" height="668" alt="image" src="https://github.com/user-attachments/assets/211fc051-e369-40f1-b38c-4d00be19ffe8" />
+
 
 
 
