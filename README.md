@@ -42,7 +42,7 @@ La señal de la Parte B fue contaminada con ruido gaussiano, impulsivo y de tipo
 
 # Resultados:
 ## Parte A:
-## <img width="1233" height="745" alt="image" src="https://github.com/user-attachments/assets/00d87ced-90cb-4604-9df3-cd3f9764961d" />
+## Señal descargada y análisis estadístico
 
 
 # Conclusiones: 
