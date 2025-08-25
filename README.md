@@ -65,7 +65,24 @@ a su vez se puede evidenciar presencia de riodos y variaciones irregurales lo cu
 
 
 ## Parte B
-Se generó una señal fisiológica similar por medio del ruido gaussiano.Luego, se importó y graficó en Python, calculándose los mismos estadísticos para compararlos con los obtenidos en la Parte A.
+Se generó una señal fisiológica de tipo ECG mediante un generador de señales biológicas en Python, buscando que tuviera características similares a la señal real descargada en la Parte A. Posteriormente, la señal fue graficada utilizando Matplotlib, lo que permitió observar su comportamiento en el dominio temporal.
+
+Creacion de la señal
+<img width="512" height="574" alt="image" src="https://github.com/user-attachments/assets/5e436dd6-6b5f-46a8-a07e-9ef37dca5ed1" />
+## Grafica de la señal creada en google Colab
+<img width="1085" height="471" alt="image" src="https://github.com/user-attachments/assets/75175293-e6fc-4695-8191-ed0ba647fe1b" />
+## Calculos estadisticos descriptivos de la señal.
+
+<img width="455" height="560" alt="image" src="https://github.com/user-attachments/assets/4614d604-4005-4697-b76b-15f7e70b5aa9" />
+
+## Histograma y funcion de probabilidad 
+
+
+
+
+
+
+
 
 
 ## Parte C
