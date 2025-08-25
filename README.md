@@ -7,10 +7,17 @@
 Las señales biomédicas constituyen una fuente esencial de información clínica, ya que permiten analizar el funcionamiento de diferentes sistemas fisiológicos. Sin embargo, dichas señales suelen estar afectadas por diversos tipos de ruido, lo que dificulta su interpretación. En este laboratorio se trabajó con señales fisiológicas reales y generadas, con el objetivo de calcular sus principales parámetros estadísticos, evaluar la relación señal-ruido (SNR) y comparar los resultados obtenidos en diferentes condiciones de adquisición.
 # Objetivo:
 -Identificar los estadísticos que describen una señal biomédica, obtenerlos a partir de algoritmos de programación y mostrarlos. 
+- implemetar algoritmos de python.
+- Compara señales de bases de datos con las generadas en el laboratorio
 # Procedimiento:
+analisar señales fisiologicas de bases de datos y de entorno reales, implementando ruido contaminandte a estas.
 
 ## Parte A
 Se descargó una señal fisiológica desde PhysioNet, la cual fue importada y graficada en Python utilizando Matplotlib. Posteriormente, se calcularon los estadísticos descriptivos (media, desviación estándar, coeficiente de variación, histograma y función de probabilidad) tanto mediante fórmulas programadas como con funciones predefinidas de NumPy y SciPy.
+
+## Código de Python (Google Colab)
+En primer lugar se realizo la descara de la señal y las graficas corrspondentes a dicha señal conn sus respectivo analisis de parametros como, la media, la desviación, funciones de probabilidad entre otros.
+
 
 
 ## Parte B
