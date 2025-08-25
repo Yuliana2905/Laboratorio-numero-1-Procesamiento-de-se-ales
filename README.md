@@ -38,6 +38,11 @@ por ultimo se implemento ruido a la señal analizando el efecto que tenia sobre 
 ## Parte A
 Se descargó una señal fisiológica desde PhysioNet, la cual fue importada y graficada en Python utilizando Matplotlib. Posteriormente, se calcularon los estadísticos descriptivos (media, desviación estándar, coeficiente de variación, histograma y función de probabilidad) tanto mediante fórmulas programadas como con funciones predefinidas de NumPy y SciPy.
 
+## Descarga y grafica de la señal código de google colab
+
+<img width="1264" height="610" alt="image" src="https://github.com/user-attachments/assets/b111faff-c743-4442-89d3-0011f030ab37" />
+
+
 
 ## Parte B
 Se generó una señal fisiológica similar por medio del ruido gaussiano.Luego, se importó y graficó en Python, calculándose los mismos estadísticos para compararlos con los obtenidos en la Parte A.
