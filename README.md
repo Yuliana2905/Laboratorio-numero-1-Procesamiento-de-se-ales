@@ -47,6 +47,10 @@ señal descargada.
 
 <img width="1241" height="386" alt="image" src="https://github.com/user-attachments/assets/7a17c113-a4de-432e-a08f-4263bde8d7a2" />
 
+señal electrocardiografica 
+<img width="948" height="573" alt="image" src="https://github.com/user-attachments/assets/b1e51e8e-fe81-4643-987b-c33e15283a9c" />
+
+
 
 
 
