@@ -50,6 +50,9 @@ señal descargada.
 señal electrocardiografica 
 <img width="948" height="573" alt="image" src="https://github.com/user-attachments/assets/b1e51e8e-fe81-4643-987b-c33e15283a9c" />
 
+## interpretación de esta grafica 
+Esta corresponde a una señal electrocardiografica en el eje X se representa el tiempo y en el eje Y se observa la amplitud de la señal, esta tiene un comportamiento oscilatorio coon variaciones peridicas de amplitud, se pueden inferir picos recurrentes de ondas R que correponden a la actividad delectrica que tiene el corazón
+a su vez se puede evidenciar presencia de riodos y variaciones irregurales lo cuak se acerca a una señal biomedica real.
 
 
 
