@@ -46,10 +46,13 @@ La señal de la Parte B fue contaminada con ruido gaussiano, impulsivo y de tipo
 # Resultados:
 ## Parte A:
 ## Señal descargada y análisis estadístico
-<img width="757" height="521" alt="image" src="https://github.com/user-attachments/assets/14f240c5-f7e0-4e59-a487-ae08b373bcd5" />
+# <img width="757" height="521" alt="image" src="https://github.com/user-attachments/assets/14f240c5-f7e0-4e59-a487-ae08b373bcd5" />
 
 
 ## Señal 1 descargada de PhysioNet sin rangos
+
+# <img width="694" height="512" alt="image" src="https://github.com/user-attachments/assets/16b174ca-c8b8-4cb8-82d0-b5c504eed5cb" />
+
 
 ## Señal 2 descargada de PhysioNet con rangos de datos
 
