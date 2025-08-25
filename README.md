@@ -42,6 +42,9 @@ Se descargó una señal fisiológica desde PhysioNet, la cual fue importada y gr
 
 <img width="1264" height="610" alt="image" src="https://github.com/user-attachments/assets/b111faff-c743-4442-89d3-0011f030ab37" />
 
+señal descargada. 
+<img width="973" height="546" alt="image" src="https://github.com/user-attachments/assets/28ff3b58-3761-4a1e-87d4-f14bd1581a89" />
+
 
 
 ## Parte B
