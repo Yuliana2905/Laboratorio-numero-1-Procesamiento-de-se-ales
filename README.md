@@ -41,7 +41,8 @@ Se generó una señal fisiológica similar por medio del ruido gaussiano.Luego, 
 La señal de la Parte B fue contaminada con ruido gaussiano, impulsivo y de tipo artefacto. En cada caso se midió la relación señal-ruido (SNR) y se analizaron los efectos sobre la calidad de la señal. Finalmente, todos los resultados y códigos fueron documentados en un repositorio de GitHub.
 
 # Resultados:
-## Part A:
+## Parte A:
+## <img width="1233" height="745" alt="image" src="https://github.com/user-attachments/assets/00d87ced-90cb-4604-9df3-cd3f9764961d" />
 
 
 # Conclusiones: 
