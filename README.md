@@ -57,7 +57,9 @@ a su vez se puede evidenciar presencia de riodos y variaciones irregurales lo cu
 ## Calculos estadisticos descriptivos de la señal.
 <img width="695" height="668" alt="image" src="https://github.com/user-attachments/assets/211fc051-e369-40f1-b38c-4d00be19ffe8" />
 
-
+## Histograma y funcion de probabilidad 
+<img width="910" height="470" alt="image" src="https://github.com/user-attachments/assets/f673f5c9-f848-4c18-a4b2-8a6ccdfd176c" />
+<img width="890" height="465" alt="image" src="https://github.com/user-attachments/assets/0ed9a05a-8c3e-459e-9b52-abbe72439063" />
 
 
 
@@ -88,6 +90,16 @@ La señal de la Parte B fue contaminada con ruido gaussiano, impulsivo y de tipo
 
 
 # Conclusiones: 
+El análisis de señales fisiológicas permitió comprender cómo las variables estadísticas (media, desviación estándar, coeficiente de variación, curtosis, entre otras) contribuyen a la caracterización y comprensión del comportamiento de las señales biomédicas.
+
+La comparación entre la señal real obtenida desde PhysioNet (Parte A) y la señal generada artificialmente (Parte B) evidenció similitudes en sus propiedades estadísticas, pero también diferencias que reflejan la naturaleza más idealizada y menos contaminada de las señales simuladas.
+
+La incorporación de ruido gaussiano, impulsivo y por artefactos (Parte C) permitió observar la degradación de la señal y cuantificarla a través de la relación señal-ruido (SNR), resaltando la importancia de esta métrica para evaluar la calidad de los datos biomédicos.
+
+El trabajo integró el uso de herramientas computacionales como Python y librerías científicas para el procesamiento, análisis y visualización de señales, fortaleciendo competencias prácticas en el área de bioseñales.
+
+En conjunto, la práctica demostró que el análisis estadístico y la evaluación de la calidad de señales son pasos fundamentales para garantizar la correcta interpretación clínica y el desarrollo de sistemas biomédicos más robustos y confiables.
+
 # Referencias: 
 ·Goldberger, A. L., Amaral, L. A. N., Glass, L., Hausdorff, J. M., Ivanov, P. C., Mark, R. G., Mietus, J. E., Moody, G. B., Peng, C. K., & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation, 101(23), e215–e220. https://doi.org/10.1161/01.CIR.101.23.e215
 
