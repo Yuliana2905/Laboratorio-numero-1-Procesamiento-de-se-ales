@@ -54,6 +54,38 @@ señal electrocardiografica
 Esta corresponde a una señal electrocardiografica en el eje X se representa el tiempo y en el eje Y se observa la amplitud de la señal, esta tiene un comportamiento oscilatorio coon variaciones peridicas de amplitud, se pueden inferir picos recurrentes de ondas R que correponden a la actividad delectrica que tiene el corazón
 a su vez se puede evidenciar presencia de riodos y variaciones irregurales lo cuak se acerca a una señal biomedica real.
 
+## Calculos estadisticos descriptivos de la señal.
+N=len(señal)
+suma=0
+for valor in señal:
+    suma+=valor
+media_señal=suma/N
+suma_cuadrads=0
+for valor in señal:
+    suma+=(valor-media_señal)**2
+desv_manual=(suma/(N-1))**0.5
+coef_var_manual=(desv_manual/media_señal)*100
+suma_var=0
+for valor in señal:
+    suma_var+=(valor-media_señal)**2
+varianza=suma_var/N
+suma_curtosis=0
+for valor in señal:
+    suma_curtosis+=(valor-media_señal)**4
+curtosis=(suma_curtosis/N)/(varianza**2)
+
+print("Estadística")
+print(f"Media:{media_señal}")
+print(f"Desviación estándar:{desv_manual}")
+print(f"Coeficiente de variación (%):{coef_var_manual}")
+print(f"Curtosis:{curtosis}")
+     
+Estadística
+Media:[670.31880638]
+Desviación estándar:[434.27397697]
+Coeficiente de variación (%):[64.78618425]
+Curtosis:[27.92048673]
+
 
 
 
