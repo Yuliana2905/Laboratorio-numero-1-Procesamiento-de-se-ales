@@ -101,6 +101,7 @@ Señales con ruidos contaminados
 <img width="876" height="394" alt="image" src="https://github.com/user-attachments/assets/51d622f8-772c-4c5c-88fd-1cb3571f3718" />
 <img width="868" height="393" alt="image" src="https://github.com/user-attachments/assets/e897fda6-dc5c-4b6d-8d97-00d28fe62fec" />
 <img width="851" height="398" alt="image" src="https://github.com/user-attachments/assets/061fa7e7-3f4a-44b4-9f01-f829362da1df" />
+
 Se analizo de las señales
 
 <img width="925" height="374" alt="image" src="https://github.com/user-attachments/assets/c43a9642-b69f-471b-92b4-7f82d6234483" />
